@@ -1,0 +1,9 @@
+com\dilafe\Dilafeback\Controller\ProductController.class
+com\dilafe\Dilafeback\DilafebackApplication$1.class
+com\dilafe\Dilafeback\Repository\ProductRepository.class
+com\dilafe\Dilafeback\Services\Impl\ProductServiceImpl.class
+com\dilafe\Dilafeback\Entities\Product.class
+com\dilafe\Dilafeback\Services\ProductService.class
+com\dilafe\Dilafeback\DTO\PageMapper.class
+com\dilafe\Dilafeback\DilafebackApplication.class
+com\dilafe\Dilafeback\DTO\ResponsePagination.class
